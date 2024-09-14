@@ -1,5 +1,5 @@
 "use client"
-export function Button(){
+export function CButton(){
     function handler(){
         console.log("hii there")
     }
